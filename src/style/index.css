@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "PT Sans", sans-serif;
+}
+#imgLogo {
+  width: 100px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+/*# sourceMappingURL=index.css.map */
