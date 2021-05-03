@@ -43,7 +43,7 @@ export default Home;
 const Container = styled.div`
     max-width: 1500px;
     margin: 0 auto;
-    background-color: #febd69;
+    /* background-color: #febd69; */
 `;
 const Banner = styled.div`
     background-image: url("https://i.imgur.com/SYHeuYM.jpg");
