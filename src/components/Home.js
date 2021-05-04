@@ -26,11 +26,12 @@ const Home = () => {
                 {products.map((data) => {
                     return (
                         <Product
+                            key={data.id}
                             title={data.Product.ProName}
                             price={data.Product.ProPrice}
                             rating={data.Product.ProRating}
                             image={data.Product.ProImage}
-                            key={data.id}
+                            id={data.id}
                         />
                     );
                 })}

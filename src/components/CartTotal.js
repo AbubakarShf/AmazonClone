@@ -6,7 +6,9 @@ const CartTotal = () => {
 
 export default CartTotal;
 const Container = styled.div`
-    background-color: #eaebec;
-    flex: 0.2;
+    background-color: #ffff;
+    border-radius: 8px;
+    padding: 20px;
+    flex: 0.3;
     height: 300px;
 `;
