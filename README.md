@@ -1,8 +1,9 @@
-# Q.How i run this in my pc?
+# Q.How I can run this in my pc?
 
-### 1. Simply download this project go inside project directory and open cmd/gitbash. Write **npm install** and hit enter. It will install all required dependencies.
+###Ans:
+Simply download this project go inside project directory and open cmd/gitbash. Write **npm install** and hit enter. It will install all required dependencies.
 
-### 2. Now we have to create the database and change configuration of firebase in AmazonClone>src>.firebase>Firebase.js . For that
+###Now we have to create the database and change configuration of firebase in AmazonClone>src>.firebase>Firebase.js . For that
 
     1.Go on https://firebase.google.com/
     2.Create FirStore DataBase.
