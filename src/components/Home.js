@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import Product from "./Products";
-import { DataBase } from "./.firebase/Firebase";
+import { DataBase } from "../.firebase/Firebase";
 const Home = () => {
     const [products, setProducts] = useState([]);
 
