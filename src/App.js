@@ -33,7 +33,7 @@ function App() {
                     </Route>
 
                     <Route path="/">
-                        <Home />
+                        <Home cartItems={cartItems} />
                     </Route>
                 </Switch>
             </div>
