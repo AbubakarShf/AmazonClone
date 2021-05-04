@@ -1,6 +1,5 @@
-# Q.How I can run this in my pc?
+# How I can run this in my pc?🤔
 
-## Answer:
 
 ### Simply download this project go inside project directory and open cmd/gitbash. Write **npm install** and hit enter. It will install all required dependencies.
 
